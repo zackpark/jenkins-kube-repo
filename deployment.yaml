@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: zackpark/hello-world:7
+        image: zackpark/hello-world:8
         ports:
         - containerPort: 8080
